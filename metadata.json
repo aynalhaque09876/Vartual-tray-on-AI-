@@ -1,0 +1,7 @@
+{
+  "name": "Creative Biz AI - Enterprise Fashion Agent",
+  "description": "Professional fashion AI agent specialized in precision dress-to-dummy extraction and character-consistent fashion visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
